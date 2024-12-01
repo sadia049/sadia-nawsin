@@ -1,6 +1,6 @@
 
+![banner_new](https://github.com/user-attachments/assets/6d04c5bf-3f55-42d3-af9a-38ffae6b4612)
 
-![banner](https://github.com/user-attachments/assets/b9cb6786-a8b6-4ebb-bf06-2c9a03758dde)
 <h1 align="center">Hi 👋, I'm Sadia Nawsin</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 <img src= "https://cdnl.iconscout.com/lottie/premium/preview/girl-developer-developed-code-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-web-software-development-services-pack-people-animations-5861979.png?f=webp" align="right" width="400" alt="coding">
